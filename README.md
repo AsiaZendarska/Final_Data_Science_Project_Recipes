@@ -13,8 +13,6 @@ Przetwarzanie danych (EDA): Dane zostały przetworzone w celu usunięcia niepotr
 
 Budowa modeli klasyfikacyjnych i ich ewaluacja: 
 
-Zbudowano różne modele klasyfikacyjne, w tym:
-
 - Regresja logistyczna
 - Support Vector Machine (SVM)
 - Random Forest
